@@ -17,7 +17,7 @@ To demonstrate data analysis and ML skills: handling imbalanced data, EDA, model
 6. **Inference**: Predicted on sample data.
 
 ## How to Run
-1. Clone the repo: `git clone [https://github.com/yourusername/Bank-Deposit-Prediction-Model](https://github.com/Jamilath/Bank-Deposit-Prediction-Model).git`
+1. Clone the repo: `git clone (https://github.com/Jamilath/Bank-Deposit-Prediction-Model).git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Open in Jupyter: `jupyter notebook Bank_Deposit_Prediction.ipynb`
 4. Run all cells.
@@ -39,4 +39,4 @@ To demonstrate data analysis and ML skills: handling imbalanced data, EDA, model
 - Libraries: pandas, numpy, scikit-learn, matplotlib, seaborn
 - Tools: Jupyter Notebook
 
-For questions, contact me on LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/mohammed-jameel-2866028/)
+For questions, contact me on LinkedIn:(https://www.linkedin.com/in/mohammed-jameel-2866028/)
